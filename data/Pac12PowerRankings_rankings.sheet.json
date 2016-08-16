@@ -1,0 +1,74 @@
+[
+  {
+    "week": 1,
+    "ranking": 1,
+    "team": "Washington State",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 2,
+    "team": "Washington",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 3,
+    "team": "Oregon",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 4,
+    "team": "Stanford",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 5,
+    "team": "Utah",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 6,
+    "team": "UCLA",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 7,
+    "team": "USC",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 8,
+    "team": "California",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 9,
+    "team": "Arizona State",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 10,
+    "team": "Colorado",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 11,
+    "team": "Arizona",
+    "blurb": "Placeholder text."
+  },
+  {
+    "week": 1,
+    "ranking": 12,
+    "team": "Oregon State",
+    "blurb": "Placeholder text."
+  }
+]

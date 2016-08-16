@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "minimal-minnesota"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2016/sports/pac12-power-rankings"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "slug": "",
+  "tags": [],
+  "image": "assets/social.jpg",
+  "sheets": ["1-RxeHHbiTtrSa911CrmUiq_PH8mIlPlZIS_qb56fGsc"],
+  "production": true,
+  "embedded": true
+}

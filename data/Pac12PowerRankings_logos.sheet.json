@@ -1,0 +1,38 @@
+{
+  "Arizona": {
+    "url": "arizona.jpg"
+  },
+  "Arizona State": {
+    "url": "asu.jpg"
+  },
+  "California": {
+    "url": "cal.jpg"
+  },
+  "Colorado": {
+    "url": "colorado.jpg"
+  },
+  "Oregon": {
+    "url": "oregon.jpg"
+  },
+  "Oregon State": {
+    "url": "osu.jpg"
+  },
+  "Stanford": {
+    "url": "stanford.jpg"
+  },
+  "UCLA": {
+    "url": "ucla.jpg"
+  },
+  "USC": {
+    "url": "usc.jpg"
+  },
+  "Utah": {
+    "url": "utah.jpg"
+  },
+  "Washington": {
+    "url": "uw.jpg"
+  },
+  "Washington State": {
+    "url": "wsu.jpg"
+  }
+}
