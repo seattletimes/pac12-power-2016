@@ -2,7 +2,7 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "minimal-minnesota"
+      "path": "minimal-minneapolis"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
