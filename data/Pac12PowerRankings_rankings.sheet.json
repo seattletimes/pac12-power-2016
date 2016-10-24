@@ -519,7 +519,7 @@
     "week": 8,
     "ranking": 3,
     "team": "USC",
-    "blurb": "(4-3, 3-2) After opening conference play with losses to Stanford and Utah, no team is playing better in the Pac-12 South than the Trojans. They have a three-game winning streak following a 48-14 rout over Arizona. In four starts, redshirt freshman QB Sam Darnold is completing 67 percent of his passes with 11 TDs and 1 interception. After committing three turnovers last week, he tossed five touchdown passes last Saturday. The only downer: WR JuJu Smith-Schuster , who had nine catches, 132 receiving yards and 3 TDDs, left late in the third quarter with an apparent back injury.<br/><strong>Next up:</strong> Bye."
+    "blurb": "(4-3, 3-2) After opening conference play with losses to Stanford and Utah, no team is playing better in the Pac-12 South than the Trojans. They have a three-game winning streak following a 48-14 rout of Arizona. In four starts, redshirt freshman QB Sam Darnold is completing 67 percent of his passes with 11 TDs and one interception. After committing three turnovers last week, he tossed five touchdown passes last Saturday. The only downer: WR JuJu Smith-Schuster, who had nine catches, 132 receiving yards and three TDs, left late in the third quarter with an apparent back injury.<br/><strong>Next up:</strong> Bye."
   },
   {
     "week": 8,
@@ -574,5 +574,77 @@
     "ranking": 12,
     "team": "Arizona",
     "blurb": "(2-5, 0-4) The Wildcats are down to their fourth-string quarterback (Khalil Tate) and fourth-string running back (Zach Green) following fourth straight loss. Great time for a week off.<br/><strong>Next up:</strong> Bye."
+  },
+  {
+    "week": 9,
+    "ranking": 1,
+    "team": "Washington",
+    "blurb": "(7-0, 4-0) Jake Browning’s Heisman Trophy pursuit garners the headlines, but a significant untold story of the Huskies is the re-emergence of their running game. RB Myles Gaskin had a sluggish start against a couple of underwhelming nonconference opponents in which he gained 124 rushing yards total, but lately he’s been on a tear. Gaskin is averaging 142 in the past three games. He has 727 yards this season, which is best in the Pac-12.<br/><strong>Next week:</strong> At No. 17 Utah."
+  },
+  {
+    "week": 9,
+    "ranking": 2,
+    "team": "Utah",
+    "blurb": "(7-1, 4-1) And speaking of running backs, Joe Williams is living a fairy tale dream. He quit football after Week 2 and missed four games before returning better than ever. He had 179 rushing yards two weeks ago and followed that with a school-record 332 last Saturday against UCLA. You can’t make this stuff up.<br/><strong>Next week:</strong> Against No. 4 Washington."
+  },
+  {
+    "week": 9,
+    "ranking": 3,
+    "team": "Washington State",
+    "blurb": "(5-2, 4-0) Postgame coaches’ handshakes and press conferences have suddenly become must-see TV for coach Mike Leach. Meanwhile, the next three opponents (Oregon State, Arizona and California) have a combined 8-13 record. The Cougars should run their winning streak to eight straight victories before ending the season at No. 23 Colorado and against No. 4 Washington.<br/><strong>Next week:</strong> At Oregon State."
+  },
+  {
+    "week": 9,
+    "ranking": 4,
+    "team": "Colorado",
+    "blurb": "(6-2, 4-1) The 23rd-ranked Buffaloes <a href=\"http://www.seattletimes.com/sports/uw-husky-football/huskies-rise-to-no-4-in-ap-poll-open-as-an-11-point-favorite-vs-no-17-utah/\">returned to the AP top-25 rankings</a> this week following a gritty 10-5 win at Stanford. They became the third Pac-12 team to become bowl eligible, which guarantees the Buffs their first postseason trip since 2007. Now they’re gunning for a Pac-12 South title, which could be decided in the Nov. 26 regular-season finale against No. 17 Utah.<br/><strong>Next week:</strong> Bye."
+  },
+  {
+    "week": 9,
+    "ranking": 5,
+    "team": "USC",
+    "blurb": "(4-3, 4-2) During their bye, the Trojans lost DE Jabari Ruffin (suspension) and RB Justin Davis (ankle sprain), their leading rusher. They need WR JuJu Smith-Schuster (back) to return healthy if they’re to make a second-half push for the Pac-12 South title. USC, which beat Colorado and lost to Utah, has four conference games (Cal, Oregon, UW and UCLA) remaining and needs help to repeat as division champions.<br/><strong>Next week:</strong> Against California."
+  },
+  {
+    "week": 9,
+    "ranking": 6,
+    "team": "California",
+    "blurb": "(4-3, 2-2) The Golden Bears need two more wins to become bowl eligible, but it won’t be easy. Their remaining schedule: at USC, against Washington, at Washington State and at home against Stanford and UCLA. QB Davis Webb has been brilliant directing the “Bear Raid” offense that’s sixth nationally averaging 545 yards per game. But he can’t continue to cover up a woeful defense that allows 41.3 points per game – 124th among 128 FBS teams.<br/><strong>Next week:</strong> At USC."
+  },
+  {
+    "week": 9,
+    "ranking": 7,
+    "team": "Stanford",
+    "blurb": "(4-3, 2-3) The Cardinal has scored only one offensive touchdown outside of garbage time in the past four games. Stanford averages 17 points per game, which ranks 126th nationally. The top playmakers returned from an offense that led the Pac-12 with a 40.9-point scoring average last season. The problem has been inconsistent play at quarterback and on the offensive line. The silver lining for Stanford is the upcoming schedule is much easier; the combined record of its final five opponents is 11-24.<br/><strong>Next week:</strong> At Arizona."
+  },
+  {
+    "week": 9,
+    "ranking": 8,
+    "team": "Arizona State",
+    "blurb": "(5-3, 2-3) The Sun Devils have much bigger issues than the feud between coach Todd Graham and WSU’s Mike Leach. They have to figure out who is going to be their quarterback next week. Manny Wilkins suffered an apparent right arm injury that knocked him out of last Saturday’s loss to the Cougars early in the first quarter. ASU was forced to turn to its fourth option, freshman Dillon Sterling-Cole, who finished with 86 yards on 7-for-16 passing.<br/><strong>Next week:</strong> At Oregon."
+  },
+  {
+    "week": 9,
+    "ranking": 9,
+    "team": "UCLA",
+    "blurb": "(3-5, 1-4) The Bruins’ six-year bowl streak is in jeopardy. They need to go 3-1 over the final four games against No. 23 Colorado, Oregon State, USC and California. It’s possible, but QB Josh Rosen (right shoulder) could miss a couple more games and you can’t expect backup Mike Fafaul to pass for 464 yards again. Last week coach Jim Mora vowed to fix the running game and the Bruins managed just 46 yards on the ground against Utah.<br/><strong>Next week:</strong> Bye."
+  },
+  {
+    "week": 9,
+    "ranking": 10,
+    "team": "Oregon State",
+    "blurb": "(2-5, 1-3) There’s no quit in the Beavers though injuries have decimated the offense, which is averaging 15.5 points in the past two games. That’s a big dropoff for a team that scored 47 three weeks ago at California. OSU needs two more wins to avoid its worst two-season stretch since Jerry Pettibone (2-9) and Mike Riley (3-8) combined for five wins in 1996 and 1997.<br/><strong>Next week:</strong> Against Washington State."
+  },
+  {
+    "week": 9,
+    "ranking": 11,
+    "team": "Oregon",
+    "blurb": "(2-5, 0-4) Got to wonder if new defensive coordinator Brady Hoke will be fired after the season or earlier. The Ducks ranked last in the Pac-12 last year in defensive scoring (37.5 points per game) and yards allowed (485.3 per game). This year they’ve gotten worse, still ranking last in the Pac-12 in defensive scoring (43.3) and yards allowed (538.6). On the bright side, new freshman QB Justin Herbert displayed tremendous growth (six TDs) in his second start.<br/><strong>Next week:</strong> Against Arizona State."
+  },
+  {
+    "week": 9,
+    "ranking": 12,
+    "team": "Arizona",
+    "blurb": "(2-5, 0-4) Veteran QB Brandon Dawkins (concussion/ribs) and Anu Solomon (knee) practiced during the bye week, which is good news. RB Nick Wilson (knee) is expected to miss a few more games, which is bad news because the Wildcats have just one healthy running back. In its five losses, Arizona is minus-11, including minus-7 the past two games.<br/><strong>Next week:</strong> Against Stanford."
   }
 ]
